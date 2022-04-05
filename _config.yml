@@ -44,7 +44,7 @@ plugins:
 
 author:
   name   : "Amy Paguirigan"
-  avatar : "/assets/images/amy-bwback.JPG"
+  avatar : "/assets/images/amy-bwback.jpg"
   bio    : "Scientific non-conformist working in translational genomics and research information technology."
   links:
     - label: "Seattle, WA"
