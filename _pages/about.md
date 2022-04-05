@@ -2,16 +2,9 @@
 permalink: /about/
 title: "About"
 ---
-While the details of my professional experience can be found on my [LinkedIn](https://www.linkedin.com/in/amy-paguirigan-75a7299/) profile, I will aim to provide some context for them here.  
+While the details of my professional experience can be found on my [LinkedIn](https://www.linkedin.com/in/amy-paguirigan-75a7299/) profile, here I'll provide some additional context. 
 
-
-## Intratumoral Heterogeniety
-During my time as a postdoc and as an independently funded Staff Scientist in Dr. Jerald Radich's laboratory at the Fred Hutch, I've been focused on development of novel assay techniques at the single cell level and beyond.  Since my days working at a flow cytometry startup as an undergrad, I've been interested in the tales single cells and their variability can tell us about human disease.  This lead me through developing assays of protein activation/phosphorylation *in situ* in microfluidic devices as a graduate student, targeted genetic and gene expression assays as a postdoc, and the connection of genetic mutations with transcriptional signatures at the single cell level in leukemia as a Staff Scientist.  Being able to combine my background in engineering and the biology of cancer has created a variety of opportunities for me to think critically about how we leverage novel technologies for truly translational research projects. 
-
->Methods development work can diverge wildly from the environs where those types of assays might be applied in the course of patient care.  While exploring novel tech can be really inspiring, the hook for me has always been how we might be able to translate it to the clinic for it to really mean something.
-
-
-
+## Research Projects
 ### Functional Consequences of Mutations in Leukemia
 - **Senior/Staff Scientist:**  11/2013 - present  
 - Lead research using microfluidic device development and bioinformatic workflow design/optimization for single cell genotyping as well as bulk intratumoral genetic heterogeneity analyses (targeted DNA sequencing up to exome level); developed pipelines for microfulidic image analysis in R. 
@@ -31,7 +24,7 @@ During my time as a postdoc and as an independently funded Staff Scientist in Dr
 - Biological assay development and application to microfluidic culture to determine the cellular baseline for a wide variety of stress responses; validation of a high throughput microfluidic culture platform using cell lines and primary cells using passive pumping for loading.
 - Skills included: Multicolor confocal imaging, multicolor laser scanner analysis, microfabrication, Western blotting, tissue culture, primary cell culture.
 
-## Collaborations and Consulting  
+## Technical Consulting  
 During my time as a Staff Scientist, I have both learned from my mistakes and also shared that expertise with others who, by nature of their research, have similar needs and challenges.  I have been involved in a number of collaborations and projects where I served as a consultant to support groups in their training, career development and improvements in overall data stewardship chops.  
 
 I currently support multiple projects for investigators at the Fred Hutch, providing subject matter expertise on data management for genomics data, advising and technical support for various cloud resources and guidance and training for software sharing.  I often advise and train staff in the use of GitHub, Docker, WDL based workflows, and reproducible code and workflow sharing, depending on the particular expertise level and needs of individual groups. 
@@ -44,9 +37,7 @@ As the *Principal Investigator* of the Fred Hutch Translational Genomics Reposit
 - Created the data management structure that supported cloud-based (primarily AWS S3) genomic data storage (including indexing and tagging of related datasets) of 1500+ research datasets and managed the associated clinical, experimental and laboratory metadata (including ontology development and harmonization across projects) across 8 collaborative projects and across 5 investigators.
 - Curate a harmonized clinical, experimental and laboratory data ontology for data from human specimens (lung, multiple types of leukemia, myelodyplastic syndrome, normal donations) as well as for datasets from 4 other species, for a range of genomic data types from single cell RNA sequencing on up to whole exome sequencing datasets.  
 - Interact closely with Fred Hutch IT, Business Development, Information Security Office and Institutional Review Board to ensure that technological solutions met requirements associated with human clinical and genomic data with respect to patient consent, study approval (by IRB), de-identification, access logging and all relevant security concerns.  
-
-### Workflow Evangelist
-I found myself becoming something of a workflow evangelist as a natural extension to my work developing the Translational Genomics Repository data management system. I lead the testing and custom configuration of the workflow manager [Cromwell](https://github.com/broadinstitute/cromwell), for use by investigators at the Hutch, as well as write and share my own analysis workflows using Docker and WDL workflow language. You can read more about this work on my [Current Projects](/projects/) page. 
+- Lead the testing and custom configuration of the workflow manager [Cromwell](https://github.com/broadinstitute/cromwell), for use by investigators at the Hutch, as well as write and share my own analysis workflows using Docker and WDL workflow language. You can read more about this work on my [Current Projects](/projects/) page. 
 
 
 ###  SciWiki

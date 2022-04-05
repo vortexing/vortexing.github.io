@@ -1,25 +1,16 @@
 ---
-permalink: /projects/
-title: "Current Projects"
+permalink: /consulting/
+title: "Consulting"
 ---
-
-Currently I split my time between methods development research for the study of intratumoral heterogeneity (ITH) and consulting on several collaborative research and research support projects.
-
-## Intratumoral Heterogeneity
-What brought me to studying ITH itself was my interest in developing and applying meaningful single-cell analysis techniques in the context of cancer genetics. This has included the development of targeted approaches to analyzing the clonal evolutionary patterns of genetic mutations in leukemia and all the validation work that entails. In conjunction with the Radich Lab at the Fred Hutch, my work has focused on comptuational approaches to clonal deconvolution that can be combined with information from single cell analysis.  By integrating information from human leukemia samples at the bulk and single cell levels, we can learn more about the most critical aspects of mutation co-occurance, clonal expansions and their genetic details, as well as begin to link these features to their transcriptional consequences.  This allows us to use each data type to it's best advantage, avoiding the specific pitfalls and errors/failure modes of each.  
-
-
-## Consulting
 
 ### Clinical/Genomics Data Management
 I'm the Principal Investigator on an IRB approved data management framework that supports researcher use of cloud and on-premise data intensive resources at the Fred Hutch, specifically for human genomics research projects (the Fred Hutch Translational Genomics Repository).  As projects and technology change, the specific challenges associated with adeptly managing data use restrictions or human subject aspects along with the sometimes large data themselves do as well.  For many research labs, developing and evolving the information technology skillsets required to effectively manage all their data is not a primary focus of staff, but poses a risk of lost opportunity for the research itself to progress, or worse.
 
 We have found that a consulting model works well to support these research labs.  By specifically engaging someone with the research information technology experience to translate needs, advise on strategy, and provide support for necessary training of staff, we can reduce the time spent wasted on fighting the underlying technology.  This allows research staff to leverage the ever-evolving set of technology resources they have available to them, while allowing them to focus on gleaning knowledge from the data via the research itself.
 
-I focus on facilitating the collection and coordination of data spanning clinical research data through the laboratory to molecular characterization to bioinformatic data provenance. I provide customized training and web-based accessibility to computing resources for researchers while balancing security and granular, investigator-controlled permissions to ensure security while improving utilization of research computing resources. 
 
 ### Workfows, Reproducibility and Sharing  
-Throughout my time doing research at the Fred Hutch, I found myself becoming something of a workflow evangelist as a natural extension to my work developing the Translational Genomics Repository data management system.  Once you wrangle your data, the logical next step is to develop reproducible, sharable, documented methods for analyzing said data.  To this end, I lead the testing and custom configuration of the workflow manager [Cromwell](https://github.com/broadinstitute/cromwell), for use by investigators at the Hutch, including supporting additional development required for Cromwell to use AWS Batch as a backend via scope definition and testing in collaboration with AWS and Fred Hutch IT.
+ Once you wrangle your data, the logical next step is to develop reproducible, sharable, documented methods for analyzing said data.  To this end, I lead the testing and custom configuration of the workflow manager [Cromwell](https://github.com/broadinstitute/cromwell), for use by investigators at the Hutch, including supporting additional development required for Cromwell to use AWS Batch as a backend via scope definition and testing in collaboration with AWS and Fred Hutch IT.
 
 
 #### Workflows and Computing Support  
