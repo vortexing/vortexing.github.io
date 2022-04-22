@@ -60,5 +60,5 @@ I served as a **Data Strategist for the Hutch Data Commonwealth** at the Fred Hu
 
 
 ## Academic Publications  
-Full publication list can be obtained via [NCBI MyBibliography](https://www.ncbi.nlm.nih.gov/myncbi/1pmiR_xKWbaQP/bibliography/public/)).
+Full publication list can be obtained via [NCBI MyBibliography](https://www.ncbi.nlm.nih.gov/myncbi/1pmiR_xKWbaQP/bibliography/public/).
 
