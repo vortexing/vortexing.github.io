@@ -1,22 +1,27 @@
 ---
-layout: single
-classes: wide
-author_profile: true
-permalink: /
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: assets/images/lakeview.jpg
-title: " "
-excerpt: " "
+layout: about 
 ---
 
-During my time as a postdoc and as an independently funded Staff Scientist in Dr. Jerald Radich's laboratory at the Fred Hutch, I've been focused on development of novel assay techniques at the single cell level and beyond.  Since my days working at a flow cytometry startup as an undergrad, I've been interested in the tales single cells and their variability can tell us about human disease.  
 
-This lead me through developing assays of protein activation/phosphorylation *in situ* in microfluidic devices as a graduate student, targeted genetic and gene expression assays as a postdoc, and the connection of genetic mutations with transcriptional signatures at the single cell level in leukemia as a Staff Scientist.  Being able to combine my background in engineering and the biology of cancer has created a variety of opportunities for me to think critically about how we leverage novel technologies for truly translational research projects. 
+### About Me
+I'm a biomedical engineer, turned molecular biologist, turned data scientist at the Fred Hutch Cancer Center.  Along that road I've studied the role of genetic and functional heterogeneity in cancer from many angles.  I enjoy the intersections between the data we generate,  the technology and tools we apply to them, and the analyses that give us insight into the mechanisms of human disease. 
 
->Methods development work can diverge wildly from the environs where those types of assays might be applied in the course of patient care.  While exploring novel tech can be really inspiring, the hook for me has always been how we might be able to translate it to the clinic for it to really mean something.
 
-See more about my [consulting work here.](/consulting/)
+Outside of work I'm a hobby potter, a sucker for a rescue dog, and trying to thoughtfully pick up the things I had to drop when the pandemic started.  I offer up my time doing informal science education with kids, coaching youth sports (volleyball, soccer and Girls on the Run), and digging in to problems around me by delivering groceries for the [Ballard Food Bank](https://www.ballardfoodbank.org/), or building Tiny Homes with middle schoolers for [LIHI](https://www.lihihousing.org/).  
 
-See more about my [background here.](/about/)
+I'm always on the lookout for something I haven't yet done, science or otherwise. 
+
+<br/>
+
+
+
+
+### Professional Experience
+
+Check out my [Research](/research) and [Projects](/projects) pages for more about what I'm working on.  The details of my professional experience can be found on my [LinkedIn](https://www.linkedin.com/in/amy-paguirigan-75a7299/) profile.   
+
+
+
+
+
+
