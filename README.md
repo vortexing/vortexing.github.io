@@ -1,1 +1,2 @@
-# repo for amypag.com
+## repo for amypag.com
+A basic landing page for Amy Paguirigan. 
