@@ -18,7 +18,7 @@ I'm always on the lookout for something I haven't yet done, science or otherwise
 
 ### Professional Experience
 
-Check out my [Research](/research) and [Projects](/projects) pages for more about what I'm working on.  The details of my professional experience can be found on my [LinkedIn](https://www.linkedin.com/in/amy-paguirigan-75a7299/) profile.   
+Check out my [Research](/research) and [Projects](/projects) pages for more about what I'm working on.  The details of my professional experience can be found on my [LinkedIn](https://www.linkedin.com/in/amy-paguirigan-75a7299/) profile.  A brief resume can be downloaded [here](/assets/Paguirigan-2023.pdf).
 
 
 
