@@ -4,7 +4,7 @@ layout: about
 
 
 ### About Me
-I’m a biomedical engineer turned molecular biologist turned data scientist with over 15 years of experience spanning wet bench to computational discovery in cancer research. Currently, I co-lead the Fred Hutch Cancer Center [Office of the Chief Data Officer](https://ocdo.fredhutch.org/) and our outreach and collaborative efforts via the [Data Science Lab](https://hutchdatascience.org/).  My main focus is building an institutional scale data governance framework, developing scalable data products and translational data infrastructure in alignment with an overall data strategy, and developing a new department while fostering a collaborative, open and forward looking data culture.
+I’m a biomedical engineer turned molecular biologist turned data scientist with over 15 years of experience spanning wet bench to computational discovery in cancer research. Currently, I am the Deputy Chief Data Officer and thus co-lead the Fred Hutch Cancer Center [Office of the Chief Data Officer](https://ocdo.fredhutch.org/) and our outreach and collaborative efforts via the [Data Science Lab](https://hutchdatascience.org/).  My main focus is building an institutional scale data governance framework, developing scalable data products and translational data infrastructure in alignment with an overall data strategy, and developing a new department while fostering a collaborative, open and forward looking data culture.
 
 
 #### Data Strategy
