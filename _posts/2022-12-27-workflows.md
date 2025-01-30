@@ -7,7 +7,12 @@ tech: "Technology"
 ---
 
 
-I currently support multiple projects for investigators at the Fred Hutch, providing subject matter expertise on data management for genomics data, advising and technical support for various cloud resources and guidance and training for software sharing.  I often advise and train staff in the use of GitHub, Docker, WDL based workflows, and reproducible code and workflow sharing, depending on the particular expertise level and needs of individual groups. 
+
+>Note, this work primary occured from 2015-2022 prior to expanding my role as Deputy Chief Data Officer at Fred Hutch Cancer Center.  As part of that, my group has built upon the work below to expand opportunities for Fred Hutch staff leveraging translational biomedical data using cloud based technologies and data management/governance.  Many of those projects can be found on [SciWiki](https://sciwiki.fredhutch.org/) and on our website for the [Office of the Chief Data Officer](https://ocdo.fredhutch.org/).
+
+
+
+I supported multiple projects for investigators at the Fred Hutch, providing subject matter expertise on data management for genomics data, advising and technical support for various cloud resources and guidance and training for software sharing.  I often advise and train staff in the use of GitHub, Docker, WDL based workflows, and reproducible code and workflow sharing, depending on the particular expertise level and needs of individual groups. 
 
 ## Workflows, Reproducibility and Sharing  
  Once you wrangle your data, the logical next step is to develop reproducible, sharable, documented methods for analyzing said data.  To this end, I lead the testing and custom configuration of the workflow manager [Cromwell](https://github.com/broadinstitute/cromwell), for use by investigators at the Hutch, including supporting additional development required for Cromwell to use AWS Batch as a backend via scope definition and testing in collaboration with AWS and Fred Hutch IT.
